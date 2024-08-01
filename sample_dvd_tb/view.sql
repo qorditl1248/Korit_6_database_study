@@ -1,5 +1,5 @@
 # view(뷰) 가상 테이블 
-# select 위에 create view 해당테이블이름_view as 
+# select 위에 create view 해당테이블이름_view as usp_add_masterusp_mod_score
 
 create view dvd_view as 
 select
